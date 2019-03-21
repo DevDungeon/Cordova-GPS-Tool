@@ -17,9 +17,9 @@ Run and build with::
 Links
 -----
 
-Source code: https://github.com/DevDungeon/Cordova-GPS-Tool
-Cordova: https://cordova.apache.org/
-Live stream of coding this project: https://www.youtube.com/watch?v=OZEfX5IPynk
+- Source code: https://github.com/DevDungeon/Cordova-GPS-Tool
+- Cordova: https://cordova.apache.org/
+- Live stream of coding this project: https://www.youtube.com/watch?v=OZEfX5IPynk
 
 Contact
 -------
